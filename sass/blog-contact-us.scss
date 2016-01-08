@@ -1,0 +1,70 @@
+/* ----------------------------------------------*/
+/*________________BLOG___________________________*/
+
+.cont-blog {
+  padding-top: 30px; }
+
+.header-blog {
+  padding: 50px 0; }
+
+.terno {
+  width: 100%; }
+
+.cont-parrafo {
+  background: white; }
+
+.cont-parrafo h3, .cont-parrafo ul, .cont-parrafo p, .cont-parrafo .bt {
+  margin-left: 20px; }
+
+.colores {
+  overflow: hidden;
+  border-radius: 10px;
+  width: 100%; }
+
+.cont-parrafo p {
+  margin-right: 20px; }
+
+.cont-parrafo h3 {
+  margin-top: 0;
+  padding-top: 20px; }
+
+.bt a {
+  color: black;
+  text-decoration: none; }
+
+.bt {
+  border: solid #E6E6FA 1px; }
+
+.post {
+  border-radius: 20px;
+  overflow: hidden;
+  padding-bottom: 8px;
+  background: white;
+  margin-bottom: 15px; }
+
+/*columna derecha---------------------------*/
+.better {
+  border-radius: 5px; }
+
+.list-categories {
+  list-style: none; }
+
+.categories span {
+  margin: 3px 5px; }
+
+/* ----------------------------------------------*/
+/*________________CONTACT-US___________________________*/
+
+.post .media-body, .post .media-principal{
+  background: #eeeeee;
+  border-radius: 3px;
+  padding: 5px 5px;
+}
+.post .media{
+  margin:10px 15px;
+}
+/* ----------------------------------------------*/
+/*________________CONTACT-US___________________________*/
+
+input:invalid {
+  background: #faf0fa; }

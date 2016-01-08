@@ -1,0 +1,55 @@
+/* ----------------------------------------------*/
+/*________________HOME___________________________*/
+
+/*-------slider---*/
+.carousel,
+.item {
+  height: 100%; }
+
+.carousel-inner {
+  height: 100%; }
+
+.c-caption {
+  position: absolute;
+  top: 250px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6); }
+
+.fill {
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; }
+
+/*----Social Networks marketing------*/
+.social-net .icono {
+  float: left; }
+
+.social-net .icono {
+  position: relative;
+  heigth: 100%;
+  padding: 15px;
+  border-radius: 100%;
+  font-size: 2.5em; 
+  width: 60px;
+  height: 60px;
+  padding: 15px;
+  border-radius: 100%;
+  font-size: 2.5em;
+  text-align: center; }
+
+/*seccion gris---HOME+++++++++++++++++++++++++++++++++++++++*/
+.cont-img {
+  box-sizing: border-box;
+  padding: 10px 10px 2px;
+  background: white;
+  border: solid #E6E6FA 1px; }
+
+.gris {
+  padding: 50px 0; }
+
+
+.rojo {
+  padding: 50px 0; }
